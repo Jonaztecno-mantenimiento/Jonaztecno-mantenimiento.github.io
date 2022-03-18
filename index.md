@@ -2,7 +2,7 @@
 
 ## Bienvenido a jonaztecno mantenimiento
 
-De los mejores tecnicos de nezahualcoyotl y los mejores servicios a distancia y presencial
+reparacion de equipos de computo, de los mejores tecnicos de México y los mejores servicios a distancia y presencial 
 
 tenemos servicio desde la 8:00 a.m hasta las 13:15
 
