@@ -2,9 +2,9 @@
 
 ## Bienvenido a jonaztecno mantenimiento
 
-You can use the [editor on GitHub](https://github.com/Jonaztecno-mantenimiento/Jonaztecno-mantenimiento.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+De los mejores tecnicos de nezahualcoyotl y los mejores servicios a distancia y presencial
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+tenemos servicio desde la 8:00 a.m hasta las 13:15
 
 ### Markdown
 
