@@ -6,7 +6,7 @@ reparacion de equipos de computo, de los mejores tecnicos de México y los mejor
 
 tenemos servicio desde la 8:00 a.m hasta las 13:15
 
-### Markdown
+### ¿Reparan celulares y tablets?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
