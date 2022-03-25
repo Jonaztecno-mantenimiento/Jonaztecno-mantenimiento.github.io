@@ -53,3 +53,14 @@ Mi pantalla se quedo congelada ¿Qué hago? R=Puede que no tengas otra opción q
 
 Aunque nuestros profesionales de soporte técnico harán los mejores esfuerzos para resolver tu problema, Microsoft no puede garantizar resolver todos los problemas, debido a la diversidad de las configuraciones informáticas de nuestros clientes.
 
+- ¿Cuáles son los componentes necesarios para configurar una red doméstica básica?
+
+Tarjetas de conexión a la red. Las tarjetas de red son dispositivos electrónicos que permiten la interconexión de varios ordenadores y/o máquinas. ... Estaciones de trabajo. Servidores. Repetidores. Bridges (puentes de conexión) Routers. Concentradores
+
+- ¿Qué significa un '?' iniciar sesión administrador de dispositivos indica?
+
+Esto no indica un problema o un estado de dispositivo deshabilitado. símbolo de icono en el administrador de dispositivos, Esto indica que un controlador exacto 
+
+-  Realizó una instalación paralela de Windows XP (edición para el hogar) para resolver ciertos problemas en la computadora de un cliente.
+
+Antes de realizar una instalación de reparación de Microsoft Windows XP, debe desinstalar Windows Internet Explorer 7 o Windows Internet Explorer 8 desde el equipo basado Windows XP. Si realiza una instalación de reparación de Windows XP cuando se sigue instalando una versión posterior de Internet Explorer, Internet Explorer no funcionará una vez completada la reparación. Para resolver este problema, desinstale la versión posterior de Internet Explorer del equipo y, después, instale Internet Explorer 6. Después Windows xp se repare, puede volver a instalar la versión posterior de Internet Explorer.
