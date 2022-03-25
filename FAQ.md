@@ -1,6 +1,6 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
--¿Qué se considera una solución aceptable al problema
+- ¿Qué se considera una solución aceptable al problema
 
 El profesional de soporte técnico se pondrá de acuerdo contigo en la definición del problema cuando plantee el incidente de soporte técnico. El incidente se cerrará después de que el profesional de soporte técnico te haya entregado una o más soluciones sugeridas. Si el profesional de soporte técnico no puede ofrecer una solución, se te notificará y el caso se cerrará como no resuelto. El estado de facturación de un caso no resuelto será a discreción de Microsoft.
 
@@ -48,4 +48,8 @@ probablemente puede ser por la fuente de energia que este mal conectada,
 Mi pantalla se quedo congelada ¿Qué hago? R=Puede que no tengas otra opción que reiniciar y arriesgarte a perder cualquier trabajo no guardado.
 
 - Mi PC hace Ruidos extraños ¿Qué puedo hacer? R=Mucho ruido que provienen de la computadora es generalmente una señal de un mal funcionamiento del hardware o de un ventilador ruido
+
+- ¿Se me garantiza una solución?
+
+Aunque nuestros profesionales de soporte técnico harán los mejores esfuerzos para resolver tu problema, Microsoft no puede garantizar resolver todos los problemas, debido a la diversidad de las configuraciones informáticas de nuestros clientes.
 
