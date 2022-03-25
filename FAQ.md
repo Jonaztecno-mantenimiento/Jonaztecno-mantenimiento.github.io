@@ -1,5 +1,9 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
+-¿Qué se considera una solución aceptable al problema
+
+El profesional de soporte técnico se pondrá de acuerdo contigo en la definición del problema cuando plantee el incidente de soporte técnico. El incidente se cerrará después de que el profesional de soporte técnico te haya entregado una o más soluciones sugeridas. Si el profesional de soporte técnico no puede ofrecer una solución, se te notificará y el caso se cerrará como no resuelto. El estado de facturación de un caso no resuelto será a discreción de Microsoft.
+
 - ¿como reparo mi computadora que no enciendes?
 
 probablemente puede ser por la fuente de energia que este mal conectada, 
@@ -30,9 +34,9 @@ probablemente puede ser por la fuente de energia que este mal conectada,
 
 - Mi computadora esta infectada con virus ¿Qué puedo hacer? R=Nuestro consejo es siempre tener un antivirus instalado que te alertará sobre los archivos que descargás.
  
- -La computadora no enciende ¿Qué puedo hacer? R= Prueba conectando el dispositivo con otro cable de alimentación o en un enchufe diferente. Si, aún así, no lográs encender tu computadora, puede que exista un problema en la placa madre, una fuente de poder u otro componente
+ - La computadora no enciende ¿Qué puedo hacer? R= Prueba conectando el dispositivo con otro cable de alimentación o en un enchufe diferente. Si, aún así, no lográs encender tu computadora, puede que exista un problema en la placa madre, una fuente de poder u otro componente
  
- -Tengo fallas con mi tarjeta gráfica ¿Qué puedo hacer? R=Una ventilación correcta y un buen mantenimiento son claves en la mayoría de los componentes que forman parte de tu computadora; puede que tu tarjeta gráfica levante mucha temperatura y haga saltar las soldaduras que la mantenían unida con la placa base.
+ - Tengo fallas con mi tarjeta gráfica ¿Qué puedo hacer? R=Una ventilación correcta y un buen mantenimiento son claves en la mayoría de los componentes que forman parte de tu computadora; puede que tu tarjeta gráfica levante mucha temperatura y haga saltar las soldaduras que la mantenían unida con la placa base.
  
  - La equipo se apaga sola o se reinicia cada dos por tres ¿Qué hago? R=Fallas como ésta pueden deberse a falta de mantenimiento en el hardware o problemas con el software. Por ejemplo, si hay polvo acumulado en los ventiladores esto obstruye el aire y no permite que la computadora se refresque correctamente, provocando que se apague.
 
@@ -40,78 +44,8 @@ probablemente puede ser por la fuente de energia que este mal conectada,
 
 - La pantalla de mi equipo está en blanco ¿Qué puedo hacer?R=Puede haber un problema con la conexión entre la computadora y la pantalla. En primer lugar, comprueba si el monitor está conectado a una toma de corriente y que la conexión entre el monitor y el disco duro de la computadora es segura.
 
--Mi Sistema operativo o software funciona de manera anormal ¿ A que se debe? R= Intenta reiniciar la computadora y ejecutar un análisis de virus. Para evitar que esto suceda, instala un software antivirus fiable.
+- Mi Sistema operativo o software funciona de manera anormal ¿ A que se debe? R= Intenta reiniciar la computadora y ejecutar un análisis de virus. Para evitar que esto suceda, instala un software antivirus fiable.
 Mi pantalla se quedo congelada ¿Qué hago? R=Puede que no tengas otra opción que reiniciar y arriesgarte a perder cualquier trabajo no guardado.
 
--Mi PC hace Ruidos extraños ¿Qué puedo hacer? R=Mucho ruido que provienen de la computadora es generalmente una señal de un mal funcionamiento del hardware o de un ventilador ruidoso.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Mi PC hace Ruidos extraños ¿Qué puedo hacer? R=Mucho ruido que provienen de la computadora es generalmente una señal de un mal funcionamiento del hardware o de un ventilador ruido
 
