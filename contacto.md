@@ -15,4 +15,5 @@ Apellidos: <input type="text" nombre="last name"><br>
 <form>
   <label for="quantity">Calificanos del 1 al 10:</label>
   <input type="number" id="quantity" name="calificacion" min="1" max="10">
+  <input type="submit">
 </form>
