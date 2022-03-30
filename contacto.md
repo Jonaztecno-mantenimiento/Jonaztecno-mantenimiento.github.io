@@ -3,17 +3,13 @@
 <form action="https://formspree.io/f/xnqwzkgq" method="post">
 Nombres: <input type="text" nombre="name"><br>
 Apellidos: <input type="text" nombre="last name"><br>
-<form>
-  <label for="phone">Numero tel:</label>
+  <label for="phone">Numero tel:</label><br>
   <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}">
-<form>
-  <label for="email">Correo:</label>
+  <label for="email">Correo:</label><br>
   <input type="email" id="email" name="email">  
-<form>
-  <label for="servicio">servicio:</label>
+  <label for="servicio">servicio:</label><br>
   <input type="date" id="servicio" name="servicio">
-<form>
-  <label for="quantity">Calificanos del 1 al 10:</label>
+  <label for="quantity">Calificanos del 1 al 10:</label><br>
   <input type="number" id="quantity" name="calificacion" min="1" max="10">
   <input type="submit">
 </form>
