@@ -4,7 +4,7 @@
 Nombres: <input type="text" nombre="name"><br>
 Apellidos: <input type="text" nombre="last name"><br>
   <label for="phone">Numero tel:</label><br>
-  <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"><br>
+  <input type="tel" id="phone" name="phone" pattern="[0-9]{2}-[0-9]{2}-[0-9]{2}-[0-9]{2}-[¨0-9]{2}"><br>
   <label for="email">Correo:</label><br>
   <input type="email" id="email" name="email"><br>
   <label for="servicio">servicio:</label><br>
